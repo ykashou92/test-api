@@ -41,19 +41,19 @@
         ]
       },
       {
-        "title": "Graphic Design Evaluation",
+        "title": "Python Skills",
         "sections": [
           {
-            "title": "Personality Evaluation",
+            "title": "Object-Oriented Programming",
             "max_score": 5,
             "content": [
               {
-                "title": "English Proficiency",
+                "title": "Class Methods",
                 "team": null,
                 "score": null
               },
               {
-                "title": "Live and Practice Feedback",
+                "title": "Decorators and Complex Inheritance",
                 "team": [
                   {
                     "name": "Natasha",
